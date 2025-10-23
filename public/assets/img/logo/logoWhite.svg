@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="167"
+   height="58"
+   viewBox="0 0 167 58"
+   fill="none"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="logoWhite.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22">
+    <rect
+       x="8.3816288"
+       y="-8.3816288"
+       width="158.30208"
+       height="75.434659"
+       id="rect23" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.3233533"
+     inkscape:cx="83.420928"
+     inkscape:cy="22.930871"
+     inkscape:window-width="1920"
+     inkscape:window-height="931"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <path
+     d="M162.62 27.6217C161.209 26.2167 158.913 26.2167 157.502 27.6217L153.8 31.3069C153.286 29.9422 151.961 28.9691 150.411 28.9691H146.496C145.941 28.9691 145.698 28.6639 145.131 28.1745C143.378 26.6371 141.036 25.8885 138.711 26.1188C136.554 26.3319 134.611 27.3396 133.182 28.9691H128.544C127.878 28.9691 127.341 29.5046 127.341 30.1726V39.7771C127.341 40.4393 127.878 40.9748 128.544 40.9748C129.556 40.9748 151.805 40.9748 152.823 40.9748C153.789 40.9748 154.697 40.6005 155.379 39.9211L162.615 32.7177C164.032 31.3069 164.032 29.0267 162.62 27.6217ZM132.332 38.5737H129.758V31.3703H132.332V38.5737ZM160.92 31.0132L153.685 38.2167C153.459 38.4412 153.147 38.5679 152.835 38.5679C152.441 38.5679 135.137 38.5679 134.749 38.5679V30.8693C135.796 29.5104 137.294 28.6697 138.971 28.5027C140.631 28.3357 142.303 28.8712 143.558 29.971C144.171 30.5065 144.975 31.3645 146.513 31.3645H150.429C151.094 31.3645 151.632 31.9058 151.632 32.5622C151.632 33.2244 151.088 33.7656 150.429 33.7656H145.501C144.344 33.7656 143.245 34.3242 142.569 35.257C142.181 35.7925 142.297 36.5468 142.841 36.9326C143.378 37.3184 144.136 37.2032 144.524 36.662C144.749 36.351 145.114 36.1668 145.501 36.1668C146.791 36.1668 150.527 36.1668 151.84 36.1668C152.158 36.1668 152.464 36.0401 152.69 35.8155L159.22 29.3146C159.688 28.8482 160.457 28.8482 160.926 29.3146C161.388 29.7868 161.388 30.5468 160.92 31.0132Z"
+     fill="white"
+     id="path1" />
+  <path
+     d="M164.888 21.7657H163.644C163.095 13.3992 156.849 6.57578 148.885 5.1017C149.099 4.64681 149.214 4.13434 149.214 3.59883C149.214 1.61228 147.589 0 145.6 0C143.604 0 141.979 1.61803 141.979 3.59883C141.979 4.13434 142.1 4.64105 142.309 5.1017C134.345 6.56427 127.948 13.3704 127.387 21.7715H126.138C125.473 21.7715 124.929 22.307 124.929 22.9692C124.929 23.6314 125.467 24.1726 126.138 24.1726H164.888C165.553 24.1726 166.091 23.6371 166.091 22.9692C166.097 22.3012 165.553 21.7657 164.888 21.7657ZM145.594 2.39538C146.259 2.39538 146.803 2.93665 146.803 3.59307C146.803 4.25526 146.259 4.79652 145.594 4.79652C144.929 4.79652 144.391 4.25526 144.391 3.59307C144.391 2.93089 144.929 2.39538 145.594 2.39538ZM129.805 21.7657C130.447 13.7562 137.416 7.18039 145.594 7.18039C153.835 7.18039 160.614 13.6295 161.227 21.7657H129.805Z"
+     fill="white"
+     id="path2" />
+  <path
+     d="M163.611 57.8874H68.9616C67.759 57.8874 66.7861 57.0113 66.7861 55.9283C66.7861 54.8453 67.759 53.9761 68.9616 53.9761H163.611C164.814 53.9761 165.787 54.8522 165.787 55.9283C165.787 57.0113 164.814 57.8874 163.611 57.8874Z"
+     fill="#FC791A"
+     id="path3" />
+  <path
+     d="M112.601 12.2582H2.53001C1.13144 12.2582 0 11.2647 0 10.0366C0 8.80842 1.13144 7.82275 2.53001 7.82275H112.601C114 7.82275 115.131 8.81624 115.131 10.0366C115.131 11.2647 114 12.2582 112.601 12.2582Z"
+     fill="#FC791A"
+     id="path4" />
+  <text
+     xml:space="preserve"
+     id="text23"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect23);display:inline;fill:#000000;stroke:#000000" />
+  <text
+     xml:space="preserve"
+     style="font-size:9.57512px;text-align:start;letter-spacing:1.14px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:#000000;stroke-width:0.797931"
+     x="6.6012721"
+     y="62.869843"
+     id="text24"
+     transform="scale(1.1213932,0.89174787)"><tspan
+       sodipodi:role="line"
+       id="tspan24"
+       x="6.6012721"
+       y="62.869843"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;letter-spacing:1.14px;fill:#ffffff;stroke:#ffffff;stroke-width:0.797931;stroke-opacity:1">Catering</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:34.0654px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:#000000;stroke-width:2.83877"
+     x="2.8204389"
+     y="46.248653"
+     id="text25"
+     transform="scale(1.074391,0.93075985)"><tspan
+       sodipodi:role="line"
+       id="tspan25"
+       x="2.8204389"
+       y="46.248653"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2.83877;stroke-opacity:1">LOGO</tspan></text>
+</svg>

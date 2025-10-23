@@ -9,7 +9,7 @@ const About2 = () => {
         const [toggle, setToggle] = useState(false);
       
         const handelClick = () => {
-          setIframeSrc("https://www.youtube.com/embed/rRid6GCJtgc");
+          setIframeSrc("https://www.youtube.com/watch?v=GcDXopVBN-k");
           setToggle(!toggle);
         };
         const handelClose = () => {
